@@ -20,8 +20,6 @@
 
 10. [4] değeri [7] değerinin sol tarafında, [5] değerinin sol tarafında, [1] değerinin sağ tarafında, [3] değerinin sağ tarafında
 
-11. [2] değeri [7] değerinin sol tarafında, [5] değerinin sol tarafında,
-
-12. [1] değerinin sağ tarafında, [3] değerinin sol tarafında
+11. [2] değeri [7] değerinin sol tarafında, [5] değerinin sol tarafında, [1] değerinin sağ tarafında, [3] değerinin sol tarafında
 
 ![Binary Search Tree](binary-search-tree.png)
